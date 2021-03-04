@@ -8,4 +8,6 @@ Pull requests are welcome!
 
 ## Screenshots
 
-_Coming soon..._
+![HomePage screenshot](homepage.png)
+
+The font face in the screenshot is [Victor Mono](https://rubjo.github.io/victor-mono/).
